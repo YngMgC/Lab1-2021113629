@@ -8,6 +8,7 @@ import java.util.Random;
 import java.util.function.Supplier;
 import java.util.function.Consumer;
 
+//Git Plugin Done By Cmy
 public class TextToGraph {
     private Map<String, Map<String, Integer>> graph;
     private String firstWord;
